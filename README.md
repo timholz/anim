@@ -1,5 +1,5 @@
 # anim
-emitter animation
+emitter animation –
 this stuff is all experimental and far from perfect, therefore
 use at your own risk
 
